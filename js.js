@@ -1,5 +1,5 @@
 $(window).scroll(function(){
-    if($(this).scrollTop()>150)
+    if($(this).scrollTop()>160)
     {
         $(".navbar-expand-lg").addClass("yellow")
         $(".arrow").show("yellow")
